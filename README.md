@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![header](https://capsule-render.vercel.app/api?type=Venom&color=ffd78d&height=300&section=header&text=൱minjin൱&fontColor=1e81b0&fontSize=90)
 <!--
 **minjiniya/minjiniya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
